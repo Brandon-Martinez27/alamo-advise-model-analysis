@@ -38,3 +38,5 @@ All students are enrolled at NLC. Banner is the student information system.
 | V    | Virtual College       |
 | X    | Transient             |
 | Z    | Senior Citizen        |
+
+All work is done in [Tableau](https://public.tableau.com/views/AlamoAdviseModelAnalysis/ExecutiveSummary?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link)
