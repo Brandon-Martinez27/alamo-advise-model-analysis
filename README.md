@@ -1,11 +1,23 @@
 # Alamo Advise Model Analysis
-## Background
+## About the Project
+### Background
 You have been asked to give an update on the percentage of students with formal academic plan status. The institution is required to maintain 95% threshold that affects student persistence, engagement and completion. In particular, senior leadership would like to know the following:
+
+### Goals
 >1. Has the advising team as a unit met the 95% goal? 
 >2. In instances where goal attainment is below expected target, what are the reasons?
 >3. College Leadership has a hypothesis that hours earned is impacting the 95% goal. Identify any possible patterns that may support hypothesis.
 
-**Data Descriptors**:
+
+### Deliverables
+- [Slide deck](https://www.canva.com/design/DAEZnf2cBOQ/tBRA2jsJ4i8RppGkDKcXXA/view?utm_content=DAEZnf2cBOQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) with presentation of analysis
+- [Tableau](https://public.tableau.com/views/AlamoAdviseModelAnalysis/ExecutiveSummary?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link) workbook with various dashboards and visualizations
+
+### Acknowledgments
+- [Northeast Lakeview College Recruiting](https://www.alamo.edu/nlc)
+- [Faith Kane]
+
+## Data Dictionary
 All students are enrolled at NLC. Banner is the student information system.
 - Banner Id = student unique id
 - Banner Advisor Name = assigned student advisor
@@ -39,4 +51,19 @@ All students are enrolled at NLC. Banner is the student information system.
 | X    | Transient             |
 | Z    | Senior Citizen        |
 
-All work is done in [Tableau](https://public.tableau.com/views/AlamoAdviseModelAnalysis/ExecutiveSummary?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link)
+## Initial Thoughts & Hypotheses
+### Thoughts
+### Hypotheses
+## Project Steps
+### Acquire & Prepare
+Data was given in the form of an excel spreadsheet
+
+### Explore
+
+
+### Conclusions
+## How to Reproduce
+### Steps
+### Tools & Requirements
+## License
+## Creators
