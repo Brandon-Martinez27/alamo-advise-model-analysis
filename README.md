@@ -11,11 +11,11 @@ You have been asked to give an update on the percentage of students with formal 
 
 ### Deliverables
 - [Slide deck](https://www.canva.com/design/DAEZnf2cBOQ/tBRA2jsJ4i8RppGkDKcXXA/view?utm_content=DAEZnf2cBOQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) with presentation of analysis
-- [Tableau](https://public.tableau.com/views/AlamoAdviseModelAnalysis/ExecutiveSummary?:language=en&:display_count=y&publish=yes&:toolbar=n&:origin=viz_share_link) workbook with various dashboards and visualizations
+- [Tableau](https://public.tableau.com/profile/brandon.martinez6956#!/vizhome/AlamoAdviseModelAnalysis/ActivePlanPercentagebyAdvisor?publish=yes) workbook with various dashboards and visualizations
 
 ### Acknowledgments
 - [Northeast Lakeview College Recruiting](https://www.alamo.edu/nlc)
-- [Faith Kane]
+- [Faith Kane](https://public.tableau.com/profile/faith.kane#!/vizhome/DrillingDownIntoChurn/Dashboard1)
 
 ## Data Dictionary
 All students are enrolled at NLC. Banner is the student information system.
