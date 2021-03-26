@@ -8,7 +8,6 @@ You have been asked to give an update on the percentage of students with formal 
 >2. In instances where goal attainment is below expected target, what are the reasons?
 >3. College Leadership has a hypothesis that hours earned is impacting the 95% goal. Identify any possible patterns that may support hypothesis.
 
-
 ### Deliverables
 - [Slide deck](https://www.canva.com/design/DAEZnf2cBOQ/tBRA2jsJ4i8RppGkDKcXXA/view?utm_content=DAEZnf2cBOQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu) with presentation of analysis
 - [Tableau](https://public.tableau.com/profile/brandon.martinez6956#!/vizhome/AlamoAdviseModelAnalysis/ActivePlanPercentagebyAdvisor?publish=yes) workbook with various dashboards and visualizations
@@ -51,9 +50,6 @@ All students are enrolled at NLC. Banner is the student information system.
 | X    | Transient             |
 | Z    | Senior Citizen        |
 
-## Initial Thoughts & Hypotheses
-### Thoughts
-### Hypotheses
 ## Project Steps
 ### Acquire & Prepare
 Data was given in the form of an excel spreadsheet `sample_data.xlsx`
