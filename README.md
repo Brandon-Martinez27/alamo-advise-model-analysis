@@ -65,7 +65,7 @@ Data was given in the form of an excel spreadsheet `sample_data.xlsx`
 
 ![Below Threshold Group](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/below-threshold-group.png?raw=true)
 
-![Hours Earned](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/hours-earned.png?raw=true)
+
 
 ### Conclusions
 ## How to Reproduce
