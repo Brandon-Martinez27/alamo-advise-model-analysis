@@ -56,10 +56,16 @@ All students are enrolled at NLC. Banner is the student information system.
 ### Hypotheses
 ## Project Steps
 ### Acquire & Prepare
-Data was given in the form of an excel spreadsheet
+Data was given in the form of an excel spreadsheet `sample_data.xlsx`
 
 ### Explore
+![Executive Summary](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/exec-summ.png?raw=true)
 
+![Advising Unit Performance](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/advising-performance.png?raw=true)
+
+![Below Threshold Group](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/below-threshold-group.png?raw=true)
+
+![Hours Earned](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/hours-earned.png?raw=true)
 
 ### Conclusions
 ## How to Reproduce
