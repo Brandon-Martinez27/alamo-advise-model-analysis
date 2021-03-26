@@ -65,11 +65,17 @@ Data was given in the form of an excel spreadsheet `sample_data.xlsx`
 
 ![Below Threshold Group](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/below-threshold-group.png?raw=true)
 
-
+![Hours Earned](https://github.com/Brandon-Martinez27/alamo-advise-model-analysis/blob/main/hours-earned.png?raw=true)
 
 ### Conclusions
-## How to Reproduce
-### Steps
-### Tools & Requirements
-## License
-## Creators
+- Advising unit performance is about 8% shy of goal. 
+- Plan description is the largest source of Non-active plans.
+- The hypothesis that credit hours have an influence on threshold is supported by data indicating that new students have more Non-active than active plans.
+
+*Recommendations*
+1. Meet with the group of advisors below threshold.
+2. Schedule meetings with students at regular intervals to update plans with detailed descriptions.
+3. Make plan update a mandatory part of onboarding process.
+
+## Tools & Requirements
+Tableau 2020.4.1
